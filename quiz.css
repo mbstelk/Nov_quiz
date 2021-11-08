@@ -1,0 +1,16 @@
+	p { 
+		font-family:'Georgia',serif;
+		font-size: 16px;
+		color: #111;
+	}
+		
+	img {
+		border: 2px solid orangered;
+	}
+
+	#byline {
+		color: #282828;
+		font-style: italic;
+	}
+
+
